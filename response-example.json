@@ -1,0 +1,57 @@
+{
+    "location": {
+        "name": "Rosario",
+        "region": "Santa Fe",
+        "country": "Argentina",
+        "lat": -32.9511,
+        "lon": -60.6664,
+        "tz_id": "America/Argentina/Cordoba",
+        "localtime_epoch": 1751329645,
+        "localtime": "2025-06-30 21:27"
+    },
+    "current": {
+        "last_updated_epoch": 1751328900,
+        "last_updated": "2025-06-30 21:15",
+        "temp_c": 2.2,
+        "temp_f": 36.0,
+        "is_day": 0,
+        "condition": {
+            "text": "Clear",
+            "icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
+            "code": 1000
+        },
+        "wind_mph": 3.6,
+        "wind_kph": 5.8,
+        "wind_degree": 194,
+        "wind_dir": "SSW",
+        "pressure_mb": 1032.0,
+        "pressure_in": 30.47,
+        "precip_mm": 0.0,
+        "precip_in": 0.0,
+        "humidity": 64,
+        "cloud": 0,
+        "feelslike_c": 0.6,
+        "feelslike_f": 33.1,
+        "windchill_c": 1.8,
+        "windchill_f": 35.3,
+        "heatindex_c": 3.3,
+        "heatindex_f": 37.9,
+        "dewpoint_c": -6.5,
+        "dewpoint_f": 20.3,
+        "vis_km": 10.0,
+        "vis_miles": 6.0,
+        "uv": 0.0,
+        "gust_mph": 7.4,
+        "gust_kph": 11.8,
+        "air_quality": {
+            "co": 503.2,
+            "no2": 71.225,
+            "o3": 1.0,
+            "so2": 16.465,
+            "pm2_5": 34.225,
+            "pm10": 34.965,
+            "us-epa-index": 2,
+            "gb-defra-index": 3
+        }
+    }
+}
